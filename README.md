@@ -19,4 +19,4 @@ this inference method is based, <a href="https://manual.whitson.com/modules/well
 
 Pull requests, feedback, and collaboration are encouraged!
 
-Find me on <a href="https://www.linkedin.com">LinkedIn</a>.
+Find me on <a href="https://www.linkedin.com/in/samshoun/">LinkedIn</a>.
